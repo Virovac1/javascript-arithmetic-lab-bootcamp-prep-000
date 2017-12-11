@@ -21,8 +21,8 @@ function inc (a){
 } 
 
 function dec (n){
- return a=`${n}`;
-  return a -= 1
+ a=`${n}`;
+  return a -= 1;
 } 
 
 //function make int (n)
