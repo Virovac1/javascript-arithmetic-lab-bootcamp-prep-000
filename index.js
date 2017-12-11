@@ -27,7 +27,6 @@ function dec (n){
 } 
 
 function makeInt (a){
- /*var a=`${n}`;*/
  parseInt(a,10)
 }
 
