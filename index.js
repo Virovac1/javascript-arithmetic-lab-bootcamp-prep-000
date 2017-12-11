@@ -1,4 +1,4 @@
-function add (a,b) { 
+ add (a,b) { 
   return a + b 
   console.log(a+b)
 }
@@ -31,7 +31,7 @@ function makeInt (a){
  return parseInt(a,10)
 }
 
-function preserveDecimal
+//function preserveDecimal
 
 
 // note did not even have to put function near the function name for most if not all of these.
