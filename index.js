@@ -19,6 +19,7 @@ function divide (a,b) {
 function inc (n){
   return n += 1
 } 
+//oddly enough can use "n" instead of "a" despite misleaing parts of index-text.js
 
 function dec (n){
   var a=`${n}`;
