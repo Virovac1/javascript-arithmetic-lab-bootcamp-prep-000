@@ -27,7 +27,7 @@ function dec (n){
 } 
 //oddly enough this is the only function that testing will accept an interpolation method, despite the instructions in index-test.js talking about variable a
 
-function makeInt (a){
+ makeInt (a){
  return parseInt(a,10)
 }
 
