@@ -26,9 +26,10 @@ function dec (n){
   return a -= 1;
 } 
 
-function makeInt (n)
-
-
+function makeInt (n){
+ var a=`${n}`;
+ parseInt (a) -= 1;
+}
 
 
 
