@@ -22,7 +22,7 @@ function inc (a){
 } 
 
 function dec (n){
-  /*var a=`${n}`;*/
+  var a=`${n}`;
   return a -= 1;
 } 
 
