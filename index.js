@@ -20,11 +20,12 @@ function inc (a){
   return a += 1
 } 
 
-function dec (a){
+function dec (n){
+  n = a 
   return a -= 1
 } 
 
-function 
+//function make int (n)
 
 
 
