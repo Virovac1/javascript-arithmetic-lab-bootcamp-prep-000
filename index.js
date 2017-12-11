@@ -21,7 +21,7 @@ function inc (a){
 } 
 
 function dec (n){
-  n = a 
+  a=n;
   return a -= 1
 } 
 
