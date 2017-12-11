@@ -25,7 +25,7 @@ function dec (n){
  /* var a=`${n}`;*/
   return n -= 1;
 } 
-//oddly enough this is the only function that testing will accept an interpolation method, despite the instructions in in de asking for "a"
+//oddly enough this is the only function that testing will accept an interpolation method, despite the instructions in inde asking for "a"
 
 makeInt (a){
  return parseInt(a,10)
