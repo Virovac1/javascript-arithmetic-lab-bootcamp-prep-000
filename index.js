@@ -26,8 +26,8 @@ function dec (n){
   return a -= 1;
 } 
 
-function makeInt (n){
- var a=`${n}`;
+function makeInt (a){
+ /*var a=`${n}`;*/
  parseInt(a);
 }
 
