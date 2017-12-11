@@ -17,7 +17,7 @@ function divide (a,b) {
 }
  
 function inc (a){
-  /*var a=`${n}`;*/
+  *var a=`${n}`;
   return a += 1
 } 
 
