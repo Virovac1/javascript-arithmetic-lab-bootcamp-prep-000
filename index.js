@@ -30,14 +30,6 @@ function dec (n){
  return parseInt(a,10)
 }
 
-//function preserveDecimal
-
-
-// note did not even have to put function near the function name for most if not all of these.
-
-
-
-
-
+function preserveDecimal {}
 
 
