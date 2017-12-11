@@ -22,12 +22,12 @@ function inc (n){
 //oddly enough can use "n" instead of "a" despite misleaing parts of index-text.js
 
 function dec (n){
-  var a=`${n}`;
-  return a -= 1;
+ /* var a=`${n}`;*/
+  return n -= 1;
 } 
-//oddly enough this is the only 
+//oddly enough this is the only function that testing will accept an interpolation method for
 
-function makeInt (a){
+makeInt (a){
  return parseInt(a,10)
 }
 
