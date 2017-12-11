@@ -30,7 +30,7 @@ function dec (n){
  return parseInt(a,10)
 }
 
-function preserveDecimal ()
-{}
+function preserveDecimal (n)
+{parsefloat(n)}
 
 
