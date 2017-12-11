@@ -26,7 +26,7 @@ function dec (n){
   return a -= 1;
 } 
 
-//function make int (n)
+function makeInt (n)
 
 
 
