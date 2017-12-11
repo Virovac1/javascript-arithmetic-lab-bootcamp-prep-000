@@ -1,5 +1,5 @@
-function add (a,b) {a + b =c
-  return `${c}` 
+function add (a,b) {a + b}
+  return a + b` 
 }
 
   
